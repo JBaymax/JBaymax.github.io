@@ -56,22 +56,6 @@
   </entry>
   
   <entry>
-    <title>hexo</title>
-    <link href="http://yoursite.com/2016/05/30/hexo/"/>
-    <id>http://yoursite.com/2016/05/30/hexo/</id>
-    <published>2016-05-30T13:53:47.000Z</published>
-    <updated>2016-05-30T13:53:47.909Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/04/03/hello-world/"/>
     <id>http://yoursite.com/2016/04/03/hello-world/</id>
