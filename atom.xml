@@ -57,10 +57,10 @@
   
   <entry>
     <title>hexo的环境配置</title>
-    <link href="http://yoursite.com/2016/05/30/hexo/"/>
-    <id>http://yoursite.com/2016/05/30/hexo/</id>
+    <link href="http://yoursite.com/2016/05/30/hexo%E7%9A%84%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    <id>http://yoursite.com/2016/05/30/hexo的环境配置/</id>
     <published>2016-05-30T13:53:47.000Z</published>
-    <updated>2016-05-30T14:38:25.736Z</updated>
+    <updated>2016-05-30T14:40:12.624Z</updated>
     
     <content type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;从4月份的时候，开始接触Hexo，一直都感觉网上的教程差不多，不知道他们在讲什么，一些专业名词将一知半解，都是从这抄抄从那抄抄，为了防止自己对知识的遗忘，在hexo上发布的第一篇文章应该记录一下自己的学习经历。&lt;br&gt;下面所写的内容属于总结前人的经验如有什么不妥之处还请见谅，毕竟我是站在巨人的肩膀上学习的！&lt;/p&gt;
 &lt;p&gt;#&lt;br&gt;根据&lt;a href=&quot;http://dkylin.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Kylin的博客&lt;/a&gt;里面记录Hexo搭建博客的方法，但是与我的有些不同，所以对自己的遇到的情况做一下记录。&lt;/p&gt;
