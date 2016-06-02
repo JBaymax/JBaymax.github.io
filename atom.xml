@@ -56,9 +56,9 @@
   </entry>
   
   <entry>
-    <title>hexo的环境搭建</title>
-    <link href="http://yoursite.com/2016/05/30/hexo%E7%9A%84%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
-    <id>http://yoursite.com/2016/05/30/hexo的环境搭建/</id>
+    <title>Hexo的环境搭建</title>
+    <link href="http://yoursite.com/2016/05/30/Hexo%E7%9A%84%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    <id>http://yoursite.com/2016/05/30/Hexo的环境搭建/</id>
     <published>2016-05-30T13:53:47.000Z</published>
     <updated>2016-06-02T04:27:28.000Z</updated>
     
@@ -108,6 +108,8 @@
       &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;从4月份的时候，开始接触Hexo，一直都感觉网上的教程差不多，不知道他们在讲什么，一些专业名词将一知半解，都是从这抄抄从那抄抄，为了防止自己
     
     </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
     
     
       <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
