@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-03T04:35:29.355Z</updated>
+  <updated>2016-06-03T05:03:07.165Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Eclipse的全局搜索和更替</title>
+    <link href="http://yoursite.com/2016/06/03/Eclipse%E7%9A%84%E5%85%A8%E5%B1%80%E6%90%9C%E7%B4%A2%E5%92%8C%E6%9B%B4%E6%9B%BF/"/>
+    <id>http://yoursite.com/2016/06/03/Eclipse的全局搜索和更替/</id>
+    <published>2016-06-03T05:02:34.000Z</published>
+    <updated>2016-06-03T05:03:07.165Z</updated>
+    
+    <content type="html">&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+H&lt;/code&gt; 出 &lt;code&gt;Search&lt;/code&gt; 的弹框，如下图：&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/%E6%90%9C%E7%B4%A200.png&quot; alt=&quot;Ctrl+H&quot;&gt;&lt;/li&gt;
+&lt;li&gt;点击 &lt;code&gt;Search&lt;/code&gt; 按钮，会在 &lt;code&gt;Search&lt;/code&gt;  视图中，列出搜索得到的结果，点击打开属性结构。双击搜索结构，就会显示源代码中的搜索结果。&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/%E6%90%9C%E7%B4%A201.png&quot; alt=&quot;Search结果&quot;&gt;&lt;/li&gt;
+&lt;li&gt;在“1”中的图上找到 &lt;code&gt;Replace&lt;/code&gt; ，点击就可以进行替换&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.360doc.com/content/14/1103/16/20160670_422212143.shtml&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.360doc.com/content/14/1103/16/20160670_422212143.shtml&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Ctrl+H&lt;/code&gt; 出 &lt;code&gt;Search&lt;/code&gt; 的弹框，如下图：&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/%E6%90%9C%E7%B4%A200.png&quot; alt
+    
+    </summary>
+    
+    
+      <category term="Eclipse" scheme="http://yoursite.com/tags/Eclipse/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo的环境搭建</title>
