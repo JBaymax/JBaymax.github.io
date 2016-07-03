@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-03T05:03:07.165Z</updated>
+  <updated>2016-06-17T04:58:01.568Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,61 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PhotoShop安装图解</title>
+    <link href="http://yoursite.com/2016/06/17/PhotoShop%E5%AE%89%E8%A3%85%E5%9B%BE%E8%A7%A3/"/>
+    <id>http://yoursite.com/2016/06/17/PhotoShop安装图解/</id>
+    <published>2016-06-17T04:28:15.000Z</published>
+    <updated>2016-06-17T04:58:01.568Z</updated>
+    
+    <content type="html">&lt;p&gt;做为一个曾经做UI的程序媛来说，每次安装Adobe的软件都很麻烦，因为需要破解。所以就根据自己的情况，分享一下自己的安装经历，安装过程如下。&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop10.png?
+watermark/1/image/aHR0cDovLzd4cndqNi5jb20xLnowLmdsYi5jbG91ZGRuLmNvbS9qYW5pbmUuanBn/dissolve/100/gravity/SouthEast/dx/10/dy/10&quot; alt=&quot;启动界面&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;方法-步骤&quot;&gt;&lt;a href=&quot;#方法-步骤&quot; class=&quot;headerlink&quot; title=&quot;方法/步骤&quot;&gt;&lt;/a&gt;方法/步骤&lt;/h1&gt;&lt;p&gt;1．把计算机的wifi或者宽带线缆暂时断开（*），因为安装过程中会要求你登录账号，这个过程会非常慢，所以我们不登登录，无网络的链接它会提示跳过登录。&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png?
+watermark/1/image/aHR0cDovLzd4cndqNi5jb20xLnowLmdsYi5jbG91ZGRuLmNvbS9qYW5pbmUuanBn/dissolve/100/gravity/SouthEast/dx/10/dy/10&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;2．把下载的安装包解压出来，双击文件夹内的“set-up.exe”,进入应用安装界面。&lt;br&gt; &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;3．单击选择下方的“试用”，进入下一步，选择“以后登陆”。&lt;br&gt;  &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;/p&gt;
+&lt;p&gt;4．选择安装路径，建议安装在系统盘以外的盘，如果那你系统盘足够大的话，安装在系统盘也是没有任何问题的。&lt;br&gt;  &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;5．接下来需要的就是你耐心的等待软件安装完成，正常的话四五分钟就可以安装完成，安装时间随电脑配置的高低而不同。&lt;br&gt;  &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;6．好了，到了这一步我们就已经安装成功了，单机对话框下方的“关闭”，进行破解。&lt;br&gt;  &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;7．破解方法也是很简单的，首先下载个破解补丁，下载解压完的文件如图所示，选择想用系统的补丁进行破解。（最下方会提供破解补丁网盘地址）。&lt;br&gt;  &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;8．以记事本的方式打开破解补丁的host，复制里面的全部内容，粘贴到电脑C盘Hosts里，保存后退出。Hosts文件地址为“C:\WINDOWS\system32\drivers\etc”。&lt;br&gt;  &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;9．完成上一步后，把破解补丁中的“amtlib.dll”复制到photoshop cc2015的安装路劲中来替换原来的“amtlib.dll”（建议替换时备份一下原来的amtlib.dll文件）。&lt;br&gt;  &lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop00.png&quot; alt=&quot;启动界面&quot;&gt;&lt;br&gt;10．如果上面的步骤你都完成的的话，那就大功告成了，破解完成了，我们打开PS然后退出，再也不会弹出那个烦人的试用窗口了，接下来就尽情的试用吧！&lt;br&gt;11．PhotoShop cc2015 64位主程序&amp;amp;破解补丁网盘链接：&lt;a href=&quot;http://pan.baidu.com/s/1o6ACnyy&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://pan.baidu.com/s/1o6ACnyy&lt;/a&gt; 密码：o6qt。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;做为一个曾经做UI的程序媛来说，每次安装Adobe的软件都很麻烦，因为需要破解。所以就根据自己的情况，分享一下自己的安装经历，安装过程如下。&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/PhotoShop10.png
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/06/04/%E9%85%8D%E7%BD%AEJava%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/"/>
+    <id>http://yoursite.com/2016/06/04/配置Java的环境变量/</id>
+    <published>2016-06-04T08:26:17.264Z</published>
+    <updated>2016-06-04T09:19:25.901Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;配置Java的环境变量&quot;&gt;&lt;a href=&quot;#配置Java的环境变量&quot; class=&quot;headerlink&quot; title=&quot;配置Java的环境变量&quot;&gt;&lt;/a&gt;配置Java的环境变量&lt;/h1&gt;&lt;p&gt;标签： Java&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Java的简单介绍&quot;&gt;&lt;a href=&quot;#Java的简单介绍&quot; class=&quot;headerlink&quot; title=&quot;Java的简单介绍&quot;&gt;&lt;/a&gt;Java的简单介绍&lt;/h2&gt;&lt;p&gt;&lt;code&gt;Java&lt;/code&gt;是由Sun公司开发的一种应用于分布式网络环境的程序设计语言，Java语言拥有跨平台的特性，它编译的程序能够运行在多种操作系统平台上，可以实现“一次编写，到处运行”的强大功能。&lt;/p&gt;
+&lt;h2 id=&quot;前期准备&quot;&gt;&lt;a href=&quot;#前期准备&quot; class=&quot;headerlink&quot; title=&quot;前期准备&quot;&gt;&lt;/a&gt;前期准备&lt;/h2&gt;&lt;p&gt;系统环境：Win7&lt;br&gt;工具：JDK（安装JDK，才能开始配置的，这里就不讲如何安装的了。）&lt;/p&gt;
+&lt;h2 id=&quot;配置步骤：&quot;&gt;&lt;a href=&quot;#配置步骤：&quot; class=&quot;headerlink&quot; title=&quot;配置步骤：&quot;&gt;&lt;/a&gt;配置步骤：&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;右击 “我的电脑”—&amp;gt;“属性”—&amp;gt;“高级系统设置”—&amp;gt;“高级”—&amp;gt;“环境变量”:&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/Java%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE.png&quot; alt=&quot;环境变量&quot;&gt;&lt;/li&gt;
+&lt;li&gt;找到“系统变量”，选择“新建”—&amp;gt;弹出“新建系统变量”对话框，在“变量名”文本框输入&lt;code&gt;JAVA_HOME&lt;/code&gt;,在“变量值”文本框输入JDK的安装路径，&lt;strong&gt;切记安装路径后面不要加分号&lt;/strong&gt;，单击“确定”按钮：&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/Java%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE00.png&quot; alt=&quot;新建系统变量&quot;&gt;&lt;/li&gt;
+&lt;li&gt;在“系统变量”选项区域中查看&lt;code&gt;PATH&lt;/code&gt;变量，如果不存在，则新建变量 &lt;code&gt;PATH&lt;/code&gt;，否则选中该变量，单击“编辑”按钮，在“变量值”文本框的起始位置添加&lt;code&gt;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;&lt;/code&gt;或者是直接&lt;code&gt;%JAVA_HOME%\bin;&lt;/code&gt;，单击确定按钮:&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/Java%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE01.png&quot; alt=&quot;PATH变量&quot;&gt;&lt;/li&gt;
+&lt;li&gt;在“系统变量”选项区域中查看&lt;code&gt;CLASSPATH&lt;/code&gt; 变量，如果不存在，则新建变量&lt;code&gt;CLASSPATH&lt;/code&gt;，否则选中该变量，单击“编辑”按钮，在“变量值”文本框的起始位置添加&lt;code&gt;.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;&lt;/code&gt;。注意：如果&lt;code&gt;CLASSPATH&lt;/code&gt;是新建的，那么在最前面要加&lt;code&gt;.;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;测试环境变量的配置是否成功。在&lt;code&gt;DOS&lt;/code&gt;命令行窗口输入&lt;code&gt;JAVAC&lt;/code&gt;或&lt;code&gt;javac&lt;/code&gt;，不分大小写，输出帮助信息即为配置正确：&lt;br&gt;&lt;img src=&quot;http://7xrwj6.com1.z0.glb.clouddn.com/Java%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE02.png&quot; alt=&quot;测试环境变量&quot;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;‘JAVAC’-不是内部或外部命令解决方法&quot;&gt;&lt;a href=&quot;#‘JAVAC’-不是内部或外部命令解决方法&quot; class=&quot;headerlink&quot; title=&quot;‘JAVAC’ 不是内部或外部命令解决方法&quot;&gt;&lt;/a&gt;‘JAVAC’ 不是内部或外部命令解决方法&lt;/h2&gt;&lt;p&gt;原因一、没有安装jdk，只安装了jre&lt;br&gt;解决方案：安装JDK&lt;br&gt;原因二：环境配置问题&lt;br&gt;解决方案：检查三处地方&lt;br&gt;第一 &lt;code&gt;JAVA_HOME&lt;/code&gt;&lt;br&gt;JAVA_HOME的内容是jdk安装目录。如我的安装的位置&lt;code&gt;D:\software\Development Tools\Java\JDK\jdk1.8.0_40&lt;/code&gt;，并且后边不带分号；&lt;br&gt;第二，检查&lt;code&gt;CLASSPATH&lt;/code&gt;，这是一个jar包的调用。&lt;code&gt;.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;&lt;/code&gt;（前面有点号和分号，后边结尾也有分号。&lt;br&gt;或者可以写成“.;%JAVA_HOME%\lib”，效果是一样的；&lt;br&gt;第三，检查&lt;code&gt;PATH&lt;/code&gt;变量是否正确&lt;br&gt;PATH变量很简单，就是jdk的bin目录的意思。添加&lt;code&gt;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;&lt;/code&gt;或者是直接&lt;code&gt;%JAVA_HOME%\bin;&lt;/code&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;配置Java的环境变量&quot;&gt;&lt;a href=&quot;#配置Java的环境变量&quot; class=&quot;headerlink&quot; title=&quot;配置Java的环境变量&quot;&gt;&lt;/a&gt;配置Java的环境变量&lt;/h1&gt;&lt;p&gt;标签： Java&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Java的简单介
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Eclipse的全局搜索和更替</title>
